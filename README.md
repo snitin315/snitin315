@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![snitin315](https://komarev.com/ghpvc/?username=snitin315)
 <!--
 **snitin315/snitin315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
