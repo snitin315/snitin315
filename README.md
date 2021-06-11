@@ -3,6 +3,7 @@
 <img width="1145" alt="Screenshot 2021-03-24 at 7 21 57 AM" src="https://user-images.githubusercontent.com/46647141/112242397-ca68f000-8c71-11eb-80c8-0767b4157e6f.png">
 
 
+![Nitin](https://activity-graph.herokuapp.com/graph?username=snitin315&theme=react-dark)
 
 # ![snitin315](https://komarev.com/ghpvc/?username=snitin315)
 
