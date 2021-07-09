@@ -1,11 +1,11 @@
 
 <img width="1095" alt="Screenshot 2021-03-24 at 7 22 31 AM" src="https://user-images.githubusercontent.com/46647141/112242385-c63cd280-8c71-11eb-84d8-1e9772bc13e0.png">
-<img width="1145" alt="Screenshot 2021-03-24 at 7 21 57 AM" src="https://user-images.githubusercontent.com/46647141/112242397-ca68f000-8c71-11eb-80c8-0767b4157e6f.png">
+<img width="1091" alt="Screenshot 2021-07-09 at 1 17 01 PM" src="https://user-images.githubusercontent.com/46647141/125042921-05275480-e0b8-11eb-8500-17c7d539636f.png">
+
 
 
 ![Nitin](https://activity-graph.herokuapp.com/graph?username=snitin315&theme=react-dark)
 
-# ![snitin315](https://komarev.com/ghpvc/?username=snitin315)
 
 <!--
 **snitin315/snitin315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
