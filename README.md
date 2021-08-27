@@ -21,7 +21,7 @@ As part of my daily open-source work, I usually work on the development of:
 - [eslint](https://github.com/eslint/eslint)
 
 
-I occasionaly contribute to some other open source projects as well: 
+I occasionally contribute to some other open-source projects as well:
 
 - [jest](https://github.com/facebook/jest)
 - [opencollective](https://github.com/opencollective/opencollective)
@@ -30,7 +30,7 @@ I occasionaly contribute to some other open source projects as well:
 
 If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to be able to work full-time on OSS that is essential to the web continuing to thrive.
 
-### You can sponsor me via:
+### You can support my open-source work me via:
 
 - [GitHub Sponsors](https://github.com/sponsors/snitin315)
 - [Buy me a coffee](https://www.buymeacoffee.com/snitin315)
