@@ -1,9 +1,9 @@
-
 # 👋🏻  Hi, I'm Nitin!
 
-### __I am a software developer and an open-source maintainer based in India.__ 
 
 ![header](https://user-images.githubusercontent.com/46647141/125195310-bd006180-e272-11eb-81fb-66a8cefb14a2.jpg)
+
+### __I am a software developer and an open-source maintainer based in India.__ 
 
  ### __I am currently helping in the development and maintenance of [__ESLint__](https://github.com/eslint/eslint) and the [__webpack__](https://github.com/webpack/webpack) ecosystem.__
 
