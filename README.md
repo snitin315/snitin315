@@ -1,9 +1,8 @@
 # 👋🏻  Hi, I'm Nitin!
 
 
-<img width="1423" alt="Screenshot 2021-08-29 at 2 16 25 PM" src="https://user-images.githubusercontent.com/46647141/131244484-5999bb1c-892e-4987-b5d9-1b889d5acdcf.png">
+<img width="1420" alt="Screenshot 2021-08-29 at 2 25 08 PM" src="https://user-images.githubusercontent.com/46647141/131244743-9e8bec3c-1bb8-433c-a879-bff635ba8eb8.png">
 
-<img width="1191" alt="Screenshot 2021-08-29 at 2 16 46 PM" src="https://user-images.githubusercontent.com/46647141/131244491-2c06da34-23bd-4a8f-a000-63d8f407a10f.png">
 
 ### __I am a software developer and an open-source maintainer based in India.__ 
 
