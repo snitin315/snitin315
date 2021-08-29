@@ -40,12 +40,15 @@ I'll try to do my best with OSS.
 
 Thanks for taking the time to read this :hearts:
 
+## GitHub Metrics
 
-
-![Nitin](https://activity-graph.herokuapp.com/graph?username=snitin315&theme=react-dark)
-
+<img width="1423" alt="Screenshot 2021-08-29 at 2 16 25 PM" src="https://user-images.githubusercontent.com/46647141/131244484-5999bb1c-892e-4987-b5d9-1b889d5acdcf.png">
+<img width="1191" alt="Screenshot 2021-08-29 at 2 16 46 PM" src="https://user-images.githubusercontent.com/46647141/131244491-2c06da34-23bd-4a8f-a000-63d8f407a10f.png">
 
 <!--
+
+![Metrics](https://metrics.lecoq.io/snitin315?template=classic&repositories.affiliations=&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
+
 **snitin315/snitin315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
