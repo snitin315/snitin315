@@ -36,7 +36,7 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
 - [GitHub Sponsors](https://github.com/sponsors/snitin315)
 - [Buy me a coffee](https://www.buymeacoffee.com/snitin315)
 
-### Special thanks to following folks for sponsoring me, your support means a lot ♥️ :
+### Special thanks to the following folks for sponsoring me, your support means a lot ♥️ :
 
 <table>
 <tbody>
