@@ -36,6 +36,20 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
 - [GitHub Sponsors](https://github.com/sponsors/snitin315)
 - [Buy me a coffee](https://www.buymeacoffee.com/snitin315)
 
+### Special thanks to following folks for sponsoring me, your support means a lot ♥️ :
+
+<table>
+<tbody>
+ <tr>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/santoshyadavdev">
+    <img src="https://github.com/santoshyadavdev.png?s=100" width="200" height="200"><br />
+    Santosh Yadav
+   </a>
+  </td>
+ </tr>
+</tbody>
+</table>
 
 I'll try to do my best with OSS.
 
