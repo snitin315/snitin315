@@ -42,6 +42,12 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
 <tbody>
  <tr>
   <td align="center" valign="top" width="20%">
+   <a href="https://github.com/mikesherov">
+    <img src="https://github.com/mikesherov.png?s=100" width="200" height="200"><br />
+    Mike Sherov
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
    <a href="https://github.com/santoshyadavdev">
     <img src="https://github.com/santoshyadavdev.png?s=100" width="200" height="200"><br />
     Santosh Yadav
