@@ -43,41 +43,52 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
  <tr>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/github">
-    <img src="https://github.com/github.png?s=100" width="200" height="200"><br />
+    <img src="https://github.com/github.png?s=100" width="150" height="150"><br />
     GitHub
    </a>
   </td>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/mikesherov">
-    <img src="https://github.com/mikesherov.png?s=100" width="200" height="200"><br />
+    <img src="https://github.com/mikesherov.png?s=100" width="150" height="150"><br />
     Mike Sherov
    </a>
   </td>
   <td align="center" valign="top" width="20%">
-   <a href="https://github.com/santoshyadavdev">
-    <img src="https://github.com/santoshyadavdev.png?s=100" width="200" height="200"><br />
-    Santosh Yadav
-   </a>
-  </td>
- </tr>
- 
-  <tr>
-  <td align="center" valign="top" width="20%">
    <a href="https://github.com/ShreyaPrasad1209">
-    <img src="https://github.com/ShreyaPrasad1209.png?s=100" width="200" height="200"><br />
+    <img src="https://github.com/ShreyaPrasad1209.png?s=100" width="150" height="150"><br />
     Shreya Prasad
    </a>
   </td>
   <td align="center" valign="top" width="20%">
-   <a href="https://github.com/pushpak1300">
-    <img src="https://github.com/pushpak1300.png?s=100" width="200" height="200"><br />
-    Pushpak Chhajed
+   <a href="https://github.com/santoshyadavdev">
+    <img src="https://github.com/santoshyadavdev.png?s=100" width="150" height="150"><br />
+    Santosh Yadav
+   </a>
+  </td>
+ </tr>
+  <tr>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/pksjce">
+    <img src="https://github.com/pksjce.png?s=100" width="150" height="150"><br />
+     Pavithra Kodmad
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/sangeeth96">
+    <img src="https://github.com/sangeeth96.png?s=100" width="150" height="150"><br />
+     Sangeeth Sudheer
    </a>
   </td>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/missionmike">
-    <img src="https://github.com/missionmike.png?s=100" width="200" height="200"><br />
+    <img src="https://github.com/missionmike.png?s=100" width="150" height="150"><br />
      Michael Dinerstein
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/pushpak1300">
+    <img src="https://github.com/pushpak1300.png?s=100" width="150" height="150"><br />
+    Pushpak Chhajed
    </a>
   </td>
  </tr>
