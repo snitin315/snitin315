@@ -92,6 +92,14 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
    </a>
   </td>
  </tr>
+ <tr>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/shivaylamba">
+    <img src="https://github.com/shivaylamba.png?s=100" width="150" height="150"><br />
+     Shivay Lamba
+   </a>
+  </td>
+ </tr>
  
 </tbody>
 </table>
