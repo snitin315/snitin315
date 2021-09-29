@@ -105,6 +105,12 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
      Avinash Dalvi
    </a>
   </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/ptrthomas">
+    <img src="https://github.com/ptrthomas.png?s=100" width="150" height="150"><br />
+     Peter Thomas
+   </a>
+  </td>
  </tr>
  
 </tbody>
