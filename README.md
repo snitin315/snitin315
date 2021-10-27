@@ -106,6 +106,12 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
      Peter Thomas
    </a>
   </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/shirshandu">
+    <img src="https://github.com/shirshandu.png?s=100" width="150" height="150"><br />
+     Shirshandu Bhattacharjee 
+   </a>
+  </td>
  </tr>
  
 </tbody>
