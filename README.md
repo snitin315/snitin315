@@ -1,9 +1,5 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Nitin!
 
-
-<img width="1420" alt="Screenshot 2021-08-29 at 2 25 08 PM" src="https://user-images.githubusercontent.com/46647141/131244743-9e8bec3c-1bb8-433c-a879-bff635ba8eb8.png">
-
-
 ### __I am a software developer and an open-source maintainer based in India.__ 
 
  ### __I am currently helping in the development and maintenance of [__ESLint__](https://github.com/eslint/eslint) and the [__webpack__](https://github.com/webpack/webpack) ecosystem.__
