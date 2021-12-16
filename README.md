@@ -37,17 +37,16 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
 <table>
 <tbody>
  <tr>
+   <td align="center" valign="top" width="20%">
+   <a href="https://github.com/indeedeng">
+    <img src="https://github.com/indeedeng.png?s=100" width="150" height="150"><br />
+     Indeed Engineering 
+   </a>
   </td>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/mikesherov">
     <img src="https://github.com/mikesherov.png?s=100" width="150" height="150"><br />
     Mike Sherov
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/ShreyaPrasad1209">
-    <img src="https://github.com/ShreyaPrasad1209.png?s=100" width="150" height="150"><br />
-    Shreya Prasad
    </a>
   </td>
   <td align="center" valign="top" width="20%">
@@ -62,26 +61,6 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
      Pavithra Kodmad
    </a>
   </td>
- </tr>
-  <tr>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/sangeeth96">
-    <img src="https://github.com/sangeeth96.png?s=100" width="150" height="150"><br />
-     Sangeeth Sudheer
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/missionmike">
-    <img src="https://github.com/missionmike.png?s=100" width="150" height="150"><br />
-     Michael Dinerstein
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/pushpak1300">
-    <img src="https://github.com/pushpak1300.png?s=100" width="150" height="150"><br />
-    Pushpak Chhajed
-   </a>
-  </td>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/shivaylamba">
     <img src="https://github.com/shivaylamba.png?s=100" width="150" height="150"><br />
@@ -89,28 +68,65 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
    </a>
   </td>
  </tr>
+</tbody>
+</table>
+
+### Past Sponsors
+
+<table>
+<tbody>
  <tr>
   <td align="center" valign="top" width="20%">
+   <a href="https://github.com/github">
+    <img src="https://github.com/github.png?s=100" width="50" height="50"><br />
+    GitHub
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/ShreyaPrasad1209">
+    <img src="https://github.com/ShreyaPrasad1209.png?s=100" width="50" height="50"><br />
+    Shreya Prasad
+   </a>
+  </td>
+ <td align="center" valign="top" width="20%">
+   <a href="https://github.com/pushpak1300">
+    <img src="https://github.com/pushpak1300.png?s=100" width="50" height="50"><br />
+    Pushpak Chhajed
+   </a>
+  </td>
+ <td align="center" valign="top" width="20%">
+   <a href="https://github.com/sangeeth96">
+    <img src="https://github.com/sangeeth96.png?s=100" width="50" height="50"><br />
+     Sangeeth Sudheer
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
    <a href="https://github.com/aviboy2006">
-    <img src="https://github.com/aviboy2006.png?s=100" width="150" height="150"><br />
+    <img src="https://github.com/aviboy2006.png?s=100" width="50" height="50"><br />
      Avinash Dalvi
    </a>
   </td>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/ptrthomas">
-    <img src="https://github.com/ptrthomas.png?s=100" width="150" height="150"><br />
+    <img src="https://github.com/ptrthomas.png?s=100" width="50" height="50"><br />
      Peter Thomas
    </a>
   </td>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/shirshandu">
-    <img src="https://github.com/shirshandu.png?s=100" width="150" height="150"><br />
+    <img src="https://github.com/shirshandu.png?s=100" width="50" height="50"><br />
      Shirshandu Bhattacharjee 
    </a>
   </td>
   <td align="center" valign="top" width="20%">
+   <a href="https://github.com/missionmike">
+    <img src="https://github.com/missionmike.png?s=100" width="50" height="50"><br />
+     Michael Dinerstein
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
    <a href="https://github.com/limonte ">
-    <img src="https://github.com/limonte.png?s=100" width="150" height="150"><br />
+    <img src="https://github.com/limonte.png?s=100" width="50" height="50"><br />
      Limon Monte 
    </a>
   </td>
