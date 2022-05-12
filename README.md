@@ -44,6 +44,12 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
    </a>
   </td>
   <td align="center" valign="top" width="20%">
+   <a href="https://github.com/PeerlistHQ">
+    <img src="https://github.com/PeerlistHQ.png?s=100" width="150" height="150"><br />
+     Peerlist
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
    <a href="https://github.com/mikesherov">
     <img src="https://github.com/mikesherov.png?s=100" width="150" height="150"><br />
     Mike Sherov
@@ -61,7 +67,9 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
      Pavithra Kodmad
    </a>
   </td>
-  <td align="center" valign="top" width="20%">
+ </tr>
+ <tr>
+ <td align="center" valign="top" width="20%">
    <a href="https://github.com/shivaylamba">
     <img src="https://github.com/shivaylamba.png?s=100" width="150" height="150"><br />
      Shivay Lamba
