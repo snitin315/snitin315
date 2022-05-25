@@ -69,10 +69,16 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
   </td>
  </tr>
  <tr>
- <td align="center" valign="top" width="20%">
+  <td align="center" valign="top" width="20%">
    <a href="https://github.com/shivaylamba">
     <img src="https://github.com/shivaylamba.png?s=100" width="150" height="150"><br />
      Shivay Lamba
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/divyanshu013">
+    <img src="https://github.com/divyanshu013.png?s=100" width="150" height="150"><br />
+     Divyanshu Maithani 
    </a>
   </td>
  </tr>
