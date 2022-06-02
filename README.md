@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Nitin!
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Nitin!
 
 ### __I am a software developer and an open-source maintainer based in India.__ 
 
