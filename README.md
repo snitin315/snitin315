@@ -37,38 +37,6 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
 <table>
 <tbody>
  <tr>
-   <td align="center" valign="top" width="20%">
-   <a href="https://github.com/indeedeng">
-    <img src="https://github.com/indeedeng.png?s=100" width="150" height="150"><br />
-     Indeed Engineering 
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/PeerlistHQ">
-    <img src="https://github.com/PeerlistHQ.png?s=100" width="150" height="150"><br />
-     Peerlist
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/mikesherov">
-    <img src="https://github.com/mikesherov.png?s=100" width="150" height="150"><br />
-    Mike Sherov
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/santoshyadavdev">
-    <img src="https://github.com/santoshyadavdev.png?s=100" width="150" height="150"><br />
-    Santosh Yadav
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/pksjce">
-    <img src="https://github.com/pksjce.png?s=100" width="150" height="150"><br />
-     Pavithra Kodmad
-   </a>
-  </td>
- </tr>
- <tr>
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/shivaylamba">
     <img src="https://github.com/shivaylamba.png?s=100" width="150" height="150"><br />
@@ -97,6 +65,36 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
    </a>
   </td>
   <td align="center" valign="top" width="20%">
+   <a href="https://github.com/indeedeng">
+    <img src="https://github.com/indeedeng.png?s=100" width="50" height="50"><br />
+     Indeed Engineering 
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/PeerlistHQ">
+    <img src="https://github.com/PeerlistHQ.png?s=100" width="50" height="50"><br />
+     Peerlist
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/mikesherov">
+    <img src="https://github.com/mikesherov.png?s=100" width="50" height="50"><br />
+    Mike Sherov
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/santoshyadavdev">
+    <img src="https://github.com/santoshyadavdev.png?s=100" width="50" height="50"><br />
+    Santosh Yadav
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
+   <a href="https://github.com/pksjce">
+    <img src="https://github.com/pksjce.png?s=100" width="50" height="50"><br />
+     Pavithra Kodmad
+   </a>
+  </td>
+  <td align="center" valign="top" width="20%">
    <a href="https://github.com/ShreyaPrasad1209">
     <img src="https://github.com/ShreyaPrasad1209.png?s=100" width="50" height="50"><br />
     Shreya Prasad
@@ -107,19 +105,7 @@ If you are looking for profiles to sponsor, I would love your appreciation. My g
     <img src="https://github.com/pushpak1300.png?s=100" width="50" height="50"><br />
     Pushpak Chhajed
    </a>
-  </td>
- <td align="center" valign="top" width="20%">
-   <a href="https://github.com/sangeeth96">
-    <img src="https://github.com/sangeeth96.png?s=100" width="50" height="50"><br />
-     Sangeeth Sudheer
-   </a>
-  </td>
-  <td align="center" valign="top" width="20%">
-   <a href="https://github.com/aviboy2006">
-    <img src="https://github.com/aviboy2006.png?s=100" width="50" height="50"><br />
-     Avinash Dalvi
-   </a>
-  </td>
+  </td>  
   <td align="center" valign="top" width="20%">
    <a href="https://github.com/ptrthomas">
     <img src="https://github.com/ptrthomas.png?s=100" width="50" height="50"><br />
